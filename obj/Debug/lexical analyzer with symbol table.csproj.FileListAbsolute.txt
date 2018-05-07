@@ -1,0 +1,17 @@
+c:\users\faisal\source\repos\lexical analyzer with symbol table\lexical analyzer with symbol table\bin\Debug\lexical analyzer with symbol table.exe.config
+c:\users\faisal\source\repos\lexical analyzer with symbol table\lexical analyzer with symbol table\bin\Debug\lexical analyzer with symbol table.exe
+c:\users\faisal\source\repos\lexical analyzer with symbol table\lexical analyzer with symbol table\bin\Debug\lexical analyzer with symbol table.pdb
+c:\users\faisal\source\repos\lexical analyzer with symbol table\lexical analyzer with symbol table\obj\Debug\lexical analyzer with symbol table.csprojResolveAssemblyReference.cache
+c:\users\faisal\source\repos\lexical analyzer with symbol table\lexical analyzer with symbol table\obj\Debug\lexical_analyzer_with_symbol_table.Properties.Resources.resources
+c:\users\faisal\source\repos\lexical analyzer with symbol table\lexical analyzer with symbol table\obj\Debug\lexical analyzer with symbol table.csproj.GenerateResource.Cache
+c:\users\faisal\source\repos\lexical analyzer with symbol table\lexical analyzer with symbol table\obj\Debug\lexical analyzer with symbol table.csproj.CoreCompileInputs.cache
+c:\users\faisal\source\repos\lexical analyzer with symbol table\lexical analyzer with symbol table\obj\Debug\lexical analyzer with symbol table.exe
+c:\users\faisal\source\repos\lexical analyzer with symbol table\lexical analyzer with symbol table\obj\Debug\lexical analyzer with symbol table.pdb
+C:\Users\Faisal\Documents\GitHub\Lexical-Analyzer-With-Symbol-Table\lexical analyzer with symbol table\bin\Debug\lexical analyzer with symbol table.exe.config
+C:\Users\Faisal\Documents\GitHub\Lexical-Analyzer-With-Symbol-Table\lexical analyzer with symbol table\bin\Debug\lexical analyzer with symbol table.exe
+C:\Users\Faisal\Documents\GitHub\Lexical-Analyzer-With-Symbol-Table\lexical analyzer with symbol table\bin\Debug\lexical analyzer with symbol table.pdb
+C:\Users\Faisal\Documents\GitHub\Lexical-Analyzer-With-Symbol-Table\lexical analyzer with symbol table\obj\Debug\lexical_analyzer_with_symbol_table.Properties.Resources.resources
+C:\Users\Faisal\Documents\GitHub\Lexical-Analyzer-With-Symbol-Table\lexical analyzer with symbol table\obj\Debug\lexical analyzer with symbol table.csproj.GenerateResource.Cache
+C:\Users\Faisal\Documents\GitHub\Lexical-Analyzer-With-Symbol-Table\lexical analyzer with symbol table\obj\Debug\lexical analyzer with symbol table.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\Documents\GitHub\Lexical-Analyzer-With-Symbol-Table\lexical analyzer with symbol table\obj\Debug\lexical analyzer with symbol table.exe
+C:\Users\Faisal\Documents\GitHub\Lexical-Analyzer-With-Symbol-Table\lexical analyzer with symbol table\obj\Debug\lexical analyzer with symbol table.pdb
